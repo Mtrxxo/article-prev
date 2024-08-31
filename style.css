@@ -92,6 +92,10 @@ p{
 }
 
 .share-expand{
+    display: none;
+}
+
+.active{
     background-color: hsl(217, 19%, 35%);
     display: flex;
     flex-flow: row nowrap;
